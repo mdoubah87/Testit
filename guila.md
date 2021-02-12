@@ -59,10 +59,10 @@ __Hawo__
 
 ***
 <!-- Tables -->
-|   nom     |   Email   |
-|   ------- | --------- |
-| Bah       | b@gmail.com|
-| Tidjo     | b1@gmail.com|
+|   nom 1    |   Email 1  |
+|   :---: | :---: |
+| Bah   1.1    | b@gmail.com 1.2|
+| Tidjo  2.1   | b1@gmail.com 2.2|
 ***
 
 * [x] Tâche une
@@ -76,3 +76,4 @@ __Hawo__
 
 ***
 
+Mon code : `alert("Hello wpRock");`
