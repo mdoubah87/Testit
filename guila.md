@@ -22,9 +22,10 @@ __Hawo__
 <!-- Links -->
 [DevOps](https://www.devops.com)
 [DevOps](https://www.devops.com "UN TUTO VERS DEVOPS")
+<https://google.com>
 ***
 <!-- Images -->
-![Logo Markdown](https://markdown-here.com/img/icon256.png)
+![Logo Markdown](https://github.com/mdoubah87/Images/blob/main/bro.jpeg)
 ***
 
 <!-- UL -->
@@ -77,3 +78,15 @@ __Hawo__
 ***
 
 Mon code : `alert("Hello wpRock");`
+
+***
+
+<div style="text-align: right"> your-text-here </div>
+
+[Default](#){.btn .btn-default}
+[Primary](#){.btn .btn-primary}
+[Info](#){.btn .btn-info}
+[Success](#){.btn .btn-success}
+[Warning](#){.btn .btn-warning}
+[Danger](#){.btn .btn-danger}
+[Link](#){.btn .btn-link}
