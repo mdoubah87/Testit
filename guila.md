@@ -82,11 +82,3 @@ Mon code : `alert("Hello wpRock");`
 ***
 
 <div style="text-align: right"> your-text-here </div>
-
-[Default](#){.btn .btn-default}
-[Primary](#){.btn .btn-primary}
-[Info](#){.btn .btn-info}
-[Success](#){.btn .btn-success}
-[Warning](#){.btn .btn-warning}
-[Danger](#){.btn .btn-danger}
-[Link](#){.btn .btn-link}
